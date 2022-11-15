@@ -1,0 +1,42 @@
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.deps.json
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.dll
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.pdb
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.AssemblyReference.cache
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfoInputs.cache
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfo.cs
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.CoreCompileInputs.cache
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.dll
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\refint\HairdressingSalon.DAL.dll
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.pdb
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\ref\HairdressingSalon.DAL.dll
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.runtimeconfig.json
+D:\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.genruntimeconfig.cache
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.deps.json
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.runtimeconfig.json
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.dll
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.pdb
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.AssemblyReference.cache
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfoInputs.cache
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfo.cs
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.CoreCompileInputs.cache
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.dll
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\refint\HairdressingSalon.DAL.dll
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.pdb
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.genruntimeconfig.cache
+C:\D\Labs\3\ASP\kursach\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\ref\HairdressingSalon.DAL.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.deps.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.runtimeconfig.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\bin\Debug\net6.0\HairdressingSalon.DAL.pdb
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.AssemblyReference.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfoInputs.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.AssemblyInfo.cs
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\refint\HairdressingSalon.DAL.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.pdb
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\HairdressingSalon.DAL.genruntimeconfig.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\курсач\HairdressingSalon.App\HairdressingSalon.DAL\obj\Debug\net6.0\ref\HairdressingSalon.DAL.dll
